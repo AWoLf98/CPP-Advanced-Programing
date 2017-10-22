@@ -1,2 +1,2 @@
-# CPP-Advanced-Programing-in-C-
+# CPP-Advanced-Programing
 CPP Advanced Programing in C++
